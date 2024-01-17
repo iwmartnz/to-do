@@ -1,0 +1,21 @@
+[
+  {
+    "id": 0,
+    "title": "Agregar una nueva tarea",
+    "importance": "regular",
+    "completed": true
+  },
+  {
+    "id": 1,
+    "title": "Hacer doble click para editar una tarea",
+    "details": "Descripcion de tarea de prueba",
+    "importance": "regular",
+    "completed": false
+  },
+  {
+    "id": 2,
+    "title": "Contratar a Israel :)",
+    "importance": "regular",
+    "completed": false
+  }
+]
